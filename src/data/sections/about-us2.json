@@ -5,12 +5,12 @@
   "image3": "/img/intro/2.jpg",
   "smallTitle": "About Us",
   "title": { "first": "We are more than just", "second": "a digital agency." },
-  "content": "We are Vie. We create award-winning websites, remarkable brands and cutting-edge apps.Nullam imperdiet, sem at fringilla lobortis, sem nibh fringilla nibh, id gravida mi purus sit amet erat. Ut dictum nisi masvitp",
+  "content": "We are iRad. We create award-winning websites, remarkable brands and cutting-edge apps that transform businesses and captivate audiences. With a team of highly skilled designers, developers, and strategists, we blend creativity with technical expertise to deliver exceptional digital experiences. Our passion for innovation drives us to stay ahead of the curve, constantly exploring emerging technologies and industry trends.",
   "features": [
     {
       "id": 1,
       "icon": "gleam",
-      "name": { "first": "Pixel", "second": "Perfect" },
+      "name": { "first": "Socila Media", "second": "Marketing" },
       "wowDelay": ".3s"
     },
     {
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "icon": "medal",
-      "name": { "first": "Heigh", "second": "Perfomance" },
+      "name": { "first": "Business", "second": "Websites" },
       "wowDelay": ".8s"
     }
   ]
